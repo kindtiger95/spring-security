@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-security
+
+security:
+  jwt-secret-key: secretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKey
+  jwt-role: USER
+  security-role: ROLE
+  basic-role: PARTNER
+  basic-user: kindtiger95
+  basic-password: kindtiger95
+
